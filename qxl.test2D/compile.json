@@ -1,0 +1,28 @@
+{
+  "targets": [
+    {
+      "type": "source",
+      "outputPath": "compiled/source",
+      "bundle": {
+        "include": "qx.*"
+      }
+    },
+    {
+      "type": "build",
+      "outputPath": "compiled/build"
+    }
+  ],
+  "defaultTarget": "source",
+  "locales": ["en"],
+  "environment": {
+      "qx.icontheme": "Tango"
+  },
+  "applications": [
+    {
+      "class": "qxl.test2D.Application",
+      "theme": "qxl.test2D.theme.Theme",
+      "name": "qxl.test2D",
+      "bootPath": "source/boot"
+    }
+  ]
+}

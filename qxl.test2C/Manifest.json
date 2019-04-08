@@ -1,0 +1,32 @@
+{
+  "info" :
+  {
+    "name" : "qxl.test2C",
+
+    "summary" : "Test library 2C",
+    "description" : "undefined",
+
+    "homepage" : "undefined",
+
+    "license" : "MIT license",
+    "authors" : "",
+
+    "version" : "1.0.0"
+  },
+
+  "provides" :
+  {
+    "namespace"   : "qxl.test2C",
+    "encoding"    : "utf-8",
+    "class"       : "source/class",
+    "resource"    : "source/resource",
+    "translation" : "source/translation",
+    "type"        : "application"
+  },
+
+  "requires": {
+    "qooxdoo-sdk"     : "^6.0.0-alpha",
+    "qooxdoo-compiler": "^0.3.0-alpha",
+    "qooxdoo/qxl.test2D": "^1.0.0"
+  }
+}
