@@ -1,0 +1,17 @@
+{
+  "libraries": [
+    {
+      "path": "qxl.test2A",
+      "main": true
+    },
+    {
+      "path": "qxl.test2B"
+    },
+    {
+      "path": "qxl.test2C"
+    },
+    {
+      "path": "qxl.test2D"
+    }
+  ]
+}
