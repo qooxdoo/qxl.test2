@@ -28,9 +28,9 @@ qx.Class.define("qxl.test2B.Application",
   members :
   {
     /**
-     * This method contains the initial application code and gets called 
+     * This method contains the initial application code and gets called
      * during startup of the application
-     * 
+     *
      * @lint ignoreDeprecated(alert)
      */
     main : function()
@@ -67,6 +67,8 @@ qx.Class.define("qxl.test2B.Application",
         /* eslint no-alert: "off" */
         alert("Hello World!");
       });
+
+      new qxl.test2C.Application();
     }
   }
 });
