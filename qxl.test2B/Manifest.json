@@ -19,6 +19,6 @@
   "requires": {
     "qooxdoo-sdk": "^6.0.0-alpha",
     "qooxdoo-compiler": "^0.3.0-alpha",
-    "qooxdoo/qxl.test2C": "^1.0.0"
+    "qooxdoo/qxl.test2/qxl.test2C": "^1.0.0"
   }
 }
