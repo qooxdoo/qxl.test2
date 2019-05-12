@@ -17,7 +17,7 @@
     "type": "application"
   },
   "requires": {
-    "qooxdoo-sdk": "^6.0.0-alpha",
-    "qooxdoo-compiler": "^0.3.0-alpha"
+    "@qooxdoo/framework": "^6.0.0-alpha || ^6.0.0-beta",
+    "@qooxdoo/compiler": "^1.0.0-beta"
   }
 }
