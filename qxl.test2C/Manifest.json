@@ -5,7 +5,7 @@
     "description": "undefined",
     "homepage": "undefined",
     "license": "MIT license",
-    "authors": "",
+    "authors": [],
     "version": "1.0.2"
   },
   "provides": {
@@ -13,12 +13,12 @@
     "encoding": "utf-8",
     "class": "source/class",
     "resource": "source/resource",
-    "translation": "source/translation",
-    "type": "application"
+    "translation": "source/translation"
   },
   "requires": {
     "@qooxdoo/framework": "^6.0.0-alpha || ^6.0.0-beta",
     "@qooxdoo/compiler": "^1.0.0-beta",
     "qooxdoo/qxl.test2/qxl.test2D": "^1.0.0"
-  }
+  },
+  "$schema": "https://raw.githubusercontent.com/qooxdoo/qooxdoo-compiler/master/resource/schema/v1/Manifest.json"
 }
