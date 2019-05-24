@@ -5,7 +5,12 @@
     "description": "undefined",
     "homepage": "undefined",
     "license": "MIT license",
-    "authors": [],
+    "authors": [
+      {
+        "name": "Christian Boulanger (cboulanger)",
+        "email": "info@bibliograph.org"
+      }
+    ],
     "version": "1.0.2"
   },
   "provides": {
