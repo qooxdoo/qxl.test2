@@ -6,7 +6,7 @@
     "homepage": "undefined",
     "license": "MIT license",
     "authors": [],
-    "version": "1.0.2"
+    "version": "1.2.0"
   },
   "provides": {
     "namespace": "qxl.test2C",
