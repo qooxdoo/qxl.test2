@@ -13,9 +13,11 @@
     }
   ],
   "defaultTarget": "source",
-  "locales": ["en"],
+  "locales": [
+    "en"
+  ],
   "environment": {
-      "qx.icontheme": "Tango"
+    "qx.icontheme": "Tango"
   },
   "applications": [
     {
@@ -24,5 +26,13 @@
       "name": "qxl.test2D",
       "bootPath": "source/boot"
     }
-  ]
+  ],
+  "eslintConfig": {
+    "extends": [
+      "@qooxdoo/qx/browser",
+      "@qooxdoo/qx",
+      "@qooxdoo/jsdoc-disable"
+    ]
+  },
+  "$schema": "https://qooxdoo.org/schema/compile-1-0-0.json"
 }
