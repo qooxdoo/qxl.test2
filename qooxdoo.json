@@ -13,5 +13,6 @@
     {
       "path": "qxl.test2D"
     }
-  ]
+  ],
+  "$schema": "https://qooxdoo.org/schema/qooxdoo-1-0-0.json"
 }
