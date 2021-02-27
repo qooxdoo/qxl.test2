@@ -21,7 +21,7 @@
     "translation": "source/translation"
   },
   "requires": {
-    "@qooxdoo/framework": "^7.0.0^6.0.0",
+    "@qooxdoo/framework": "^7.0.0",
     "qooxdoo/qxl.test2/qxl.test2C": "^1.0.0"
   },
   "$schema": "https://qooxdoo.org/schema/Manifest-2-0-0.json"
