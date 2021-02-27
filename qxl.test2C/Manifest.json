@@ -6,7 +6,7 @@
     "homepage": "undefined",
     "license": "MIT license",
     "authors": [],
-    "version": "1.2.2"
+    "version": "2.0.0"
   },
   "provides": {
     "namespace": "qxl.test2C",
@@ -16,7 +16,7 @@
     "translation": "source/translation"
   },
   "requires": {
-    "@qooxdoo/framework": "^7.0.0",
+    "@qooxdoo/framework": "^7.0.0^6.0.0",
     "qooxdoo/qxl.test2/qxl.test2D": "^1.0.0"
   },
   "$schema": "https://qooxdoo.org/schema/Manifest-2-0-0.json"
