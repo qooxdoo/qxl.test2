@@ -17,6 +17,7 @@
   },
   "requires": {
      "@qooxdoo/framework": "^6.0.0 || ^7.0.0-beta || ^7.0.0",
+     "@qooxdoo/compiler": "^1.0.0",
      "qooxdoo/qxl.test2/qxl.test2B": "^1.0.0"
   },
   "$schema": "https://qooxdoo.org/schema/Manifest-1-0-0.json"
